@@ -1,7 +1,7 @@
 mlops_project
 ==============================
 
-water portability project
+Stock Prediction project
 
 Project Organization
 ------------
